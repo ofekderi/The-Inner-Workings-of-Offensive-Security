@@ -7,7 +7,9 @@ perspectives on Windows exploitation, attack detection, and defensive strategy.
 
 ## 📥 Download
 
-**[Download the Complete Guide (PDF)](./The-Inner-Workings-of-Offensive-Security.pdf)**
+**[⬇️ Download the Complete Guide (PDF)](https://github.com/ofekderi/The-Inner-Workings-of-Offensive-Security/raw/main/The-Inner-Workings-of-Offensive-Security.pdf)**
+
+Or browse directly: [View on GitHub](https://github.com/ofekderi/The-Inner-Workings-of-Offensive-Security/blob/main/The-Inner-Workings-of-Offensive-Security.pdf)
 
 ---
 
