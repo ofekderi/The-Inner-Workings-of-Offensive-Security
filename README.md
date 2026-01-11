@@ -20,6 +20,19 @@ Or browse directly: [View on GitHub](https://github.com/ofekderi/The-Inner-Worki
 
 ---
 
+## 👥 Who Should Read This?
+
+✅ **Red Teamers** - Understand the noise you generate; plan OPSEC accordingly  
+✅ **Blue Teamers** - Hunt Windows attacks; understand detection opportunities  
+✅ **Security Architects** - Design detection strategies; prioritize monitoring  
+✅ **Penetration Testers** - Deep technical reference for Windows exploitation  
+✅ **Threat Hunters** - Map techniques to forensic artifacts & Event IDs  
+✅ **SOC Analysts** - Build detections around high-fidelity indicators  
+✅ **Incident Responders** - Understand attack mechanics for investigations  
+✅ **Students** - Learn Windows security from fundamentals to advanced attacks  
+
+---
+
 ## 📋 What's Inside
 
 ### Fundamentals
@@ -109,19 +122,6 @@ Or browse directly: [View on GitHub](https://github.com/ofekderi/The-Inner-Worki
 - Command Injection
 - Remote File Inclusion (RFI)
 - File Upload vulnerabilities
-
----
-
-## 👥 Who Should Read This?
-
-✅ **Red Teamers** - Understand the noise you generate; plan OPSEC accordingly  
-✅ **Blue Teamers** - Hunt Windows attacks; understand detection opportunities  
-✅ **Security Architects** - Design detection strategies; prioritize monitoring  
-✅ **Penetration Testers** - Deep technical reference for Windows exploitation  
-✅ **Threat Hunters** - Map techniques to forensic artifacts & Event IDs  
-✅ **SOC Analysts** - Build detections around high-fidelity indicators  
-✅ **Incident Responders** - Understand attack mechanics for investigations  
-✅ **Students** - Learn Windows security from fundamentals to advanced attacks  
 
 ---
 
