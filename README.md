@@ -13,6 +13,13 @@ Or browse directly: [View on GitHub](https://github.com/ofekderi/The-Inner-Worki
 
 ---
 
+## 📈 Version History
+
+- **v1.0** (Jan 4, 2026) - Initial release with complete content, forensic artifacts table, and capstone scenario
+- **v1.1** (Jan 11, 2026) - Revised "Other Open-Source Alternatives" section, minor text corrections.
+
+---
+
 ## 📋 What's Inside
 
 ### Fundamentals
@@ -213,12 +220,6 @@ Unauthorized access to computer systems is illegal.
 - **GitHub:** [@ofekderi](https://github.com/ofekderi)
 - **LinkedIn:** [Ofek Deri](https://www.linkedin.com/in/ofek-deri-aa176424b/)
 
----
-
-## 📈 Version History
-
-- **v1.0** (Jan 4, 2026) - Initial release with complete content, forensic artifacts table, and capstone scenario
-- **v1.1** (Jan 11, 2026) - Revised "Other Open-Source Alternatives" section, minor text corrections.
 ---
 
 ## 🙏 Acknowledgments
