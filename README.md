@@ -218,7 +218,7 @@ Unauthorized access to computer systems is illegal.
 ## 📈 Version History
 
 - **v1.0** (Jan 4, 2026) - Initial release with complete content, forensic artifacts table, and capstone scenario
-
+- **v1.1** (Jan 11, 2026) - Revised "Other Open-Source Alternatives" section, minor text corrections.
 ---
 
 ## 🙏 Acknowledgments
